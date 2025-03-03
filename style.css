@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  font-family: Tahoma, san-serif;
+}
+
+.little { /* dot looks for a class NOT tag*/
+  width: 100px; 
+}
+
+#big { /* # for id */
+width: 500px; 
+}
+
+.part1 {
+  color: rgb(185, 112, 112); 
+}
+
+.part2 {
+  color: rgb(131, 131, 179); 
+}
+
+.part3 {
+  color: rgb(141, 189, 141);
+}
